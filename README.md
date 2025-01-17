@@ -32,49 +32,6 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 ### 🛠️ Setting Up Snake Animation
 To replicate the snake animation, you need to set up a GitHub Action:
 
-#### 1. Create a Workflow File:
-- Go to `.github/workflows/` and create a file named `snake.yml`.
-- Add the following content to it:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule: # Runs daily
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v2
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
-          outputs: dist/snake.svg
-
-      - name: Push Snake Animation to Profile
-        uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
