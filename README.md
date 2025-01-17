@@ -43,6 +43,8 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 - 🌍 Worked on global projects impacting millions.
 
 ---
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iiiii0vicky0-0singh0iiiii&theme=onedark&no-bg=true&no-frame=true&column=3)
+
 
 ## 📬 **Contact Me**
 
