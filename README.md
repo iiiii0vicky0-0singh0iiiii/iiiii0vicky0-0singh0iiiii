@@ -51,7 +51,7 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper@gmail.com)
 
-![Snake animation](https://github.com/iiiiii0vicky0-0singh0iiiii/iiiiii0vicky0-0singh0iiiii/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
