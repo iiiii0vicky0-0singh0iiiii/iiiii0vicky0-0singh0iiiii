@@ -1,28 +1,3 @@
-# 🐍 Dynamic Name Process
-
-This project demonstrates a Python script that dynamically shrinks and expands a name step-by-step.
-
-## 🐍 Dynamic Name Process Output
-
-iiiiii0vicky0-0singh0iiiii
-iiiiii0vicky0-0singh0iiii
-iiiiii0vicky0-0singh0iii
-iiiiii0vicky0-0singh0ii
-iiiiii0vicky0-0singh0i
-iiiiii0vicky0-0singh0
-...
-i
-ii
-iii
-iiii
-iiiii
-iiiiii0
-iiiiii0v
-iiiiii0vi
-...
-iiiiii0vicky0-0singh0iiiii
-
-/*
 # 🎃 Welcome to My  GitHub Profile 👻
 ## 👋 Hi, I'm vicky kumar singh
 
@@ -72,7 +47,7 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper@gmail.com)
-*/
+
 
 
 
