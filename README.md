@@ -12,7 +12,7 @@
 
 
 
-![GitHub Snake Contribution Animation](https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/snake.svg)
+![GitHub Snake Contribution Animation](https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/snake.yml)
 
 ---
 
