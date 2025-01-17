@@ -1,5 +1,6 @@
 
 # 🎃 Welcome to My  GitHub Profile 👻
+# 👋 Hi, I'm vicky kumar singh
 
 <div align="center">
   <h2>Beware of the Ghost and Snake!</h2>
@@ -9,7 +10,7 @@
 
 ---
 
-## 🐍 Snake Eating Contributions
+
 
 ![GitHub Snake Contribution Animation](https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/snake.svg)
 
@@ -35,10 +36,8 @@ To replicate the snake animation, you need to set up a GitHub Action:
 
 
 
-# 👋 Hi, I'm [vicky kumar singh]!
 
-🌟 **Welcome to My GitHub Profile!**  
-🚀 I'm a **Web Developer** with **2 years** of experience in [MySql].  
+
 
 ---
 
