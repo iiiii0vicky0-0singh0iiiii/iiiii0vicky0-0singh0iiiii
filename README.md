@@ -11,7 +11,6 @@
 ---
 
 
-
 ![GitHub Snake Contribution Animation](https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/snake.svg)
 
 
@@ -22,53 +21,6 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 - 🧑‍💻 Passionate about coding and open-source projects.
 - 🎨 Enthusiast of creative and dynamic GitHub profiles.
 - 🌟 Always looking for new challenges and collaborations.
-
----
-
-# 🐍 Welcome to My Profile
-
-<div align="center">
-  <h2>! 🐍</h2>
-  <div style="position: relative; width: 100%; height: 150px; overflow: hidden;">
-    <svg viewBox="0 0 100 10" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 150px;">
-      <defs>
-        <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#00ff00" />
-          <stop offset="100%" stop-color="#008000" />
-        </linearGradient>
-      </defs>
-      <path
-        id="snakePath"
-        d="M0 5 Q 25 0, 50 5 T 100 5"
-        stroke="url(#snakeGradient)"
-        fill="none"
-        stroke-width="0.5"
-      />
-      <circle r="0.5" fill="#000" style="animation: moveSnake 5s linear infinite;">
-        <animateMotion repeatCount="indefinite" dur="5s">
-          <mpath href="#snakePath" />
-        </animateMotion>
-      </circle>
-    </svg>
-  </div>
-  <p>Feel free to follow me as the snake slithers through the profile!</p>
-</div>
-
----
-
-## 🎉 About Me
-- 👨‍💻 Passionate developer
-- 🐍 Lover of fun, creative profiles
-- 🌟 Always exploring new technologies
-
----
-
-## 🔗 Links
-- 🌐 [Portfolio](#)
-- 🐙 [GitHub Repositories](#)
-
-
-
 
 
 ---
