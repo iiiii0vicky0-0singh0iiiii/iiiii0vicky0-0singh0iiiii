@@ -1,3 +1,83 @@
+
+# 🎃 Welcome to My  GitHub Profile 👻
+
+<div align="center">
+  <h2>Beware of the Ghost and Snake!</h2>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Ghost Animation" width="300"/>
+  <p>The ghost haunts my profile at night 🌑👻</p>
+</div>
+
+---
+
+## 🐍 Snake Eating Contributions
+
+![GitHub Snake Contribution Animation](https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/snake.svg)
+
+---
+
+### 📖 About Me
+Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here's a bit about me:
+- 🧑‍💻 Passionate about coding and open-source projects.
+- 🎨 Enthusiast of creative and dynamic GitHub profiles.
+- 🌟 Always looking for new challenges and collaborations.
+
+---
+
+### ⚙️ How This Works
+1. **Ghost Animation**: The ghost GIF is displayed using Markdown. The animation brings a spooky vibe to my profile!
+2. **Snake Animation**: The snake eats my contributions every day, dynamically updating this profile.
+
+---
+
+### 🛠️ Setting Up Snake Animation
+To replicate the snake animation, you need to set up a GitHub Action:
+
+#### 1. Create a Workflow File:
+- Go to `.github/workflows/` and create a file named `snake.yml`.
+- Add the following content to it:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule: # Runs daily
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: YOUR_GITHUB_USERNAME
+          outputs: dist/snake.svg
+
+      - name: Push Snake Animation to Profile
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Hi, I'm [vicky kumar singh]!
 
 🌟 **Welcome to My GitHub Profile!**  
