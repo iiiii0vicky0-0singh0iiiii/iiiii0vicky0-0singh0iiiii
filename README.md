@@ -10,23 +10,15 @@
 
 ---
 
-
-![GitHub Snake Contribution Animation](https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/snake.svg)
-
-
----
-
 ### 📖 About Me
 Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here's a bit about me:
 - 🧑‍💻 Passionate about coding and open-source projects.
 - 🎨 Enthusiast of creative and dynamic GitHub profiles.
 - 🌟 Always looking for new challenges and collaborations.
 
-
 ---
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iiiii0vicky0-0singh0iiiii&theme=radical)
-
 
 ---
 
