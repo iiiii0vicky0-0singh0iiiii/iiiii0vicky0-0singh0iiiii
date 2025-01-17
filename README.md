@@ -1,6 +1,6 @@
 
 # 🎃 Welcome to My  GitHub Profile 👻
-# 👋 Hi, I'm vicky kumar singh
+## 👋 Hi, I'm vicky kumar singh
 
 <div align="center">
   <h2>Beware of the Ghost and Snake!</h2>
@@ -36,7 +36,7 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 ---
 
 ## 🏆 **Achievements**
-- 🏅 2 years of professional software development experience.
+- 🏅 2 years of professional Web development experience.
 - 🚀 Contributed to [X open-source projects](https://github.com/iiiii0vicky0-0singh0iiiii?tab=repositories).
 - 🌍 Worked on global projects impacting millions.
 
@@ -44,4 +44,4 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 ## 📬 **Contact Me**
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper@gmail.com)
