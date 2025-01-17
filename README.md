@@ -35,7 +35,7 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 To replicate the snake animation, you need to set up a GitHub Action:
 
 
-
+<p>Check out <a href="https://github.com/topics">GitHub topics</a> to search interesting topics.</p>
 
 
 
