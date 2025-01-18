@@ -51,11 +51,6 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 
 
-[Dynamic Anime Name Generator](https://iiiii0vicky0-0singh0iiiii.github.io/iiiii0vicky0-0singh0iiiii/)
-[goku](https://iiiii0vicky0-0singh0iiiii.github.io/iiiii0vicky0-0singh0iiiii/)
-
-
-
 
 
 
