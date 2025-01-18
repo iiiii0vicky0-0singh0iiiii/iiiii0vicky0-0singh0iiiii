@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Anime Names</title>
+    <style>
+        #name {
+            font-size: 2em;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+            animation: fade 2s infinite;
+        }
+        @keyframes fade {
+            0%, 100% { opacity: 0; }
+            50% { opacity: 1; }
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const animeCharacters = [
+                "Goku (Dragon Ball)",
+                "Naruto Uzumaki (Naruto)",
+                "Luffy (One Piece)",
+                "Sasuke Uchiha (Naruto)",
+                "Ichigo Kurosaki (Bleach)",
+                "Levi Ackerman (Attack on Titan)",
+                "Mikasa Ackerman (Attack on Titan)",
+                "Saitama (One Punch Man)",
+                "Edward Elric (Fullmetal Alchemist)",
+                "Rimuru Tempest (That Time I Got Reincarnated as a Slime)"
+            ];
+            const randomCharacter = animeCharacters[Math.floor(Math.random() * animeCharacters.length)];
+            const customName = `iiiii0vicky0-0singh0iiiii x ${randomCharacter}`;
+            document.getElementById('name').textContent = customName;
+        });
+    </script>
+</head>
+<body>
+    <div id="name">Loading...</div>
+</body>
+</html>
