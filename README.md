@@ -51,8 +51,8 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 
 
+[Dynamic Anime Name Generator](https://iiiii0vicky0-0singh0iiiii.github.io/anime-name-generator/)
 
-[![Dynamic Anime Name Generator](https://iiiii0vicky0-0singh0iiiii.github.io/repository-name/)
 
 
 
