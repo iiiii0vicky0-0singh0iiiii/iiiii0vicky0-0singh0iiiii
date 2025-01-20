@@ -43,7 +43,7 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 ---
 
-## 📬 **Contact Me**
+# 📬 **Contact Me**
 
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper@gmail.com)
