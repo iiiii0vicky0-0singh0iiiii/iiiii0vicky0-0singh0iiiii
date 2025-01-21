@@ -73,10 +73,10 @@ fn main() {
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
       Typescript 
     </td>
-    <td align="center" width="96">
+  <!--  <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       Github
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       React
@@ -89,7 +89,7 @@ fn main() {
 ---
 
 ## 🏆 **Achievements**
-- 🏅 2 years of professional Web development experience.
+- 🏅  Web development experience.
 - 🚀 Contributed to [X open-source projects](https://github.com/iiiii0vicky0-0singh0iiiii?tab=repositories).
 - 🌍 Worked on global projects impacting millions.
 
@@ -99,7 +99,7 @@ fn main() {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiiii0vicky0-0singh0iiii&label=Profile%20views&color=0e75b6&style=flat" alt="iiiii0vicky0-0singh0iiii" /> </p>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper@gmail.com)
+[![indianarmysniper@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper@gmail.com)
 
 
 
