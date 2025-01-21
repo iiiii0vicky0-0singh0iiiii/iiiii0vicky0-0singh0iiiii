@@ -10,7 +10,8 @@
 ---
 
 ### 📖 About Me
-<img align="right" width="300" src="https://media.tenor.com/X3x8Izi8zZoAAAAC/programming-code.gif" />
+<img align="right" width="300" src="https://via.placeholder.com/300x200.png?text=Programming+Code" />
+
 
 Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here's a bit about me:
 <br>
