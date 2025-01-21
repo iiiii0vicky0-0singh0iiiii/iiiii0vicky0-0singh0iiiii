@@ -10,7 +10,8 @@
 ---
 
 ### 📖 About Me
-<img align="right" width="300" src="https://via.placeholder.com/300x200.png?text=Programming+Code" />
+<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFxbXF3cnNwOTNmamhobXA1NWdqN3BwZXcxYTZ5dGRxcm5xczN0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
+
 
 
 Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here's a bit about me:
