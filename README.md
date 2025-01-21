@@ -1,4 +1,4 @@
-# 🎃 Welcome to My  GitHub Profile 👻
+# 🎃 Welcome to My  GitHub Profile 👻 
 ## 👋 Hi, I'm vicky kumar singh
 
 <div align="center">
@@ -57,8 +57,11 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 # 📬 **Contact Me**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iiiii0vicky0-0singh0iiii&label=Profile%20views&color=0e75b6&style=flat" alt="iiiii0vicky0-0singh0iiii" /> </p>
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper@gmail.com)
+
+
 
 
 
