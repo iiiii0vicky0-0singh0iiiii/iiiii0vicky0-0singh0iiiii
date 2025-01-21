@@ -50,7 +50,7 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&show_icons=true&locale=en&theme=dark" alt="iiiii0vicky0-0singh0iiiii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiiii0vicky0-0singh0iiiii&theme=dark" alt="iiiii0vicky0-0singh0iiiii" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiiii0vicky0-0singh0iiiii&theme=dark" alt="iiiii0vicky0-0singh0iiiii" /></p> -->
 
 ---
 
