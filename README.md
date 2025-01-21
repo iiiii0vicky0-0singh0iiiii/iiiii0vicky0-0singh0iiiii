@@ -17,9 +17,23 @@
 Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here's a bit about me:
 <br>
 -<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>  <b> I love to work in groups!</b> 😊</em>
-- 🧑‍💻 Passionate about coding and open-source projects.
+<!-- -🧑‍💻 Passionate about coding and open-source projects.
 - 🎨 Enthusiast of creative and dynamic GitHub profiles.
-- 🌟 Always looking for new challenges and collaborations.
+- 🌟 Always looking for new challenges and collaborations. -->
+
+
+rust
+fn main() {
+    let passion = "🧑‍💻 Passionate about coding and open-source projects.";
+    let creativity = "🎨 Enthusiast of creative and dynamic GitHub profiles.";
+    let challenges = "🌟 Always looking for new challenges and collaborations.";
+
+    println!("{}", passion);
+    println!("{}", creativity);
+    println!("{}", challenges);
+}
+
+
 
 
 <br>
