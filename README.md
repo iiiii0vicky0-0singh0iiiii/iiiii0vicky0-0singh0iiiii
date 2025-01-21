@@ -11,7 +11,8 @@
 
 ### 📖 About Me
 Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here's a bit about me:
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>  <b> I love to work in groups!</b> 😊</em>
+<br>
+-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>  <b> I love to work in groups!</b> 😊</em>
 - 🧑‍💻 Passionate about coding and open-source projects.
 - 🎨 Enthusiast of creative and dynamic GitHub profiles.
 - 🌟 Always looking for new challenges and collaborations.
@@ -44,11 +45,6 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iiiii0vicky0-0singh0iiiii&theme=juicyfresh" alt="iiiii0vicky0-0singh0iiiii" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiiii0vicky0-0singh0iiiii&show_icons=true&locale=en&layout=compact&theme=dark" alt="iiiii0vicky0-0singh0iiiii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&show_icons=true&locale=en&theme=dark" alt="iiiii0vicky0-0singh0iiiii" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iiiii0vicky0-0singh0iiiii&theme=dark" alt="iiiii0vicky0-0singh0iiiii" /></p> -->
 
 ---
 
