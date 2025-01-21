@@ -25,6 +25,8 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ---
 ## 📊 **GitHub Stats**
