@@ -109,7 +109,7 @@ fn main() {
 [![indianarmysniper@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:indianarmysniper@gmail.com)
 
 
-
+---
 
 
 
