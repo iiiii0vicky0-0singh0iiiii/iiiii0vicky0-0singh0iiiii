@@ -91,7 +91,7 @@ fn main() {
 ## 🏆 **Achievements**
 - 🏅  Web development experience.
 - 🚀 Contributed to [X open-source projects](https://github.com/iiiii0vicky0-0singh0iiiii?tab=repositories).
-- 🌍 Worked on global projects impacting millions.
+<!-- 🌍 Worked on global projects impacting millions. -->
 
 ---
 
