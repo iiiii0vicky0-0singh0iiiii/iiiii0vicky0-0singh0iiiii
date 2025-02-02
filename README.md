@@ -1,7 +1,7 @@
 # 🎃 Welcome to My  GitHub Profile 👻 
 
 # 👋<div > <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=CF9FFF&amp;size=25&amp;lines=Hi,+I'm+vicky+kumar+singh+&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=25" /> </div>
-<!--## 👋 Hi, I'm vicky kumar singh-->
+
 
 <div align="center">
   <h2>Beware of the Ghost and Snake!</h2>
