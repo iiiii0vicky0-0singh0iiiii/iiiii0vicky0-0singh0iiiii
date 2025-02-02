@@ -1,4 +1,10 @@
-# 🎃 Welcome to My  GitHub Profile 👻 
+<!--# 🎃 Welcome to My  GitHub Profile 👻 --> 
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+ 🎃 Welcome to My  GitHub Profile 👻 +¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=42" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+
+जय + श्री + राम +
++।।&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=15" />
+
 ## 👋 Hi, I'm vicky kumar singh
 
 <div align="center">
