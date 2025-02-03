@@ -42,7 +42,9 @@ fn main() {
 
 ---
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&show_icons=true&theme=radical)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&show_icons=true&theme=dark&bg_color=808080)
+
 
 
 ---
