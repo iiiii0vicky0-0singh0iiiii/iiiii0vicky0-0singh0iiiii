@@ -8,12 +8,13 @@ def process_name(input_name):
         shrinking_names.append(cleaned_name)
         cleaned_name = cleaned_name[:-1]
     
-    # Generate expanding names
+    
     expanding_names = shrinking_names[::-1][1:]  # Exclude the full name to avoid duplication
     
     # Combine shrinking and expanding
     full_process = shrinking_names + expanding_names
-    
+    full_process = shrinking_names - expanding_names
+    full_process = shrinking_names + expanding_names
     return full_process
 
 # Main code
