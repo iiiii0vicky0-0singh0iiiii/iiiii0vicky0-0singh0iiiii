@@ -29,7 +29,7 @@ Hi there! 👋 I'm a developer who loves creating spooky and fun profiles! Here'
 ```rust
 fn main() {
     let passion = "🧑‍💻 Passionate about coding and open-source projects.";
-    let creativity = "🎨 Enthusiast of creative and dynamic GitHub profiles.";
+    let creativity = "🎨 Enthusiast of creative and dynamic GitHub profiles..";
     let challenges = "🌟 Always looking for new challenges and collaborations.";
 
     println!("{}", passion);
