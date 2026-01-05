@@ -41,18 +41,9 @@ fn main() {
 
 
 ---
-## 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&show_icons=true&theme=light)
-
-
 
 
 ---
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iiiii0vicky0-0singh0iiiii&theme=juicyfresh" alt="iiiii0vicky0-0singh0iiiii" /></a> </p>
 
 
 ---
