@@ -121,6 +121,8 @@ fn main() {
 
 
 ---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iiiii0vicky0-0singh0iiiii&theme=react-dark"/>
+
 
 ## 🏆 **Achievements**
 - 🏅  Web development experience.
