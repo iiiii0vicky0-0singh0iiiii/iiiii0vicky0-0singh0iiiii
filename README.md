@@ -140,7 +140,7 @@ fn main() {
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiiii0vicky0-0singh0iiiii&theme=react-dark&hide_border=true" alt="Activity graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iiiii0vicky0-0singh0iiiii&theme=react-dark"/>
+   
 </a>
 
 
