@@ -23,7 +23,13 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iiiii0vicky0-0singh0iiiii&theme=onedark&row=1&column=7" />
+ ## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=iiiii0vicky0-0singh0iiiii&theme=darkhub&no-frame=true&margin-w=10&v=1" />
+## ⭐ GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
@@ -129,7 +135,7 @@ fn main() {
 
 ## 🏆 **Achievements**
 - 🏅  Web development experience.
-- 🚀 Contributed to [X open-source projects](https://github.com/iiiii0vicky0-0singh0iiiii?tab=repositories).
+-  Contributed to [X open-source projects](https://github.com/iiiii0vicky0-0singh0iiiii?tab=repositories).
 <!-- 🌍 Worked on global projects impacting millions. -->
 
 ---
