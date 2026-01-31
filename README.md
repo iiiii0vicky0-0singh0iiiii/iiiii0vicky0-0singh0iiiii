@@ -34,7 +34,7 @@
 
 ---
 
-## 🐍 The Snake That Eats My Contributions
+##  My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
