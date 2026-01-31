@@ -12,6 +12,47 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=CF9FFF&center=true&vCenter=true&width=700&lines=👻+Welcome+to+Vicky's+GitHub+Universe+🎃;Impossible+Profiles+Do+Exist;Code+%7C+Creativity+%7C+Chaos" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iiiii0vicky0-0singh0iiiii&theme=onedark&row=1&column=7" />
+</div>
+
+---
+
+## 🐍 The Snake That Eats My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 👻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif"/>
+
+```rust
+fn main() {
+    println!("👨‍💻 Developer");
+    println!("🎃 Creative Profile Designer");
+    println!("🐍 Automation Lover");
+    println!("🚀 Always Building");
+}
+
 
 ### 📖 About Me
 <img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFxbXF3cnNwOTNmamhobXA1NWdqN3BwZXcxYTZ5dGRxcm5xczN0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
