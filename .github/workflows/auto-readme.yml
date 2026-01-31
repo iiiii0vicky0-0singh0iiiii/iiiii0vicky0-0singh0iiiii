@@ -1,9 +1,9 @@
 name: Auto Update README
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 1 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,26 +11,45 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Generate stats
+      - name: Generate daily content
         run: |
-          COMMITS=$(git log --oneline | wc -l)
-          DATE=$(date)
-          echo "### 🤖 Daily Auto Update" > auto.md
-          echo "- 📅 Date: $DATE" >> auto.md
-          echo "- 🔥 Total commits (repo): $COMMITS" >> auto.md
+          DATE=$(date +"%Y-%m-%d")
+          COMMITS=$(git rev-list --count HEAD)
 
-      - name: Update README
+          echo "### 🤖 Daily Auto Update" > auto.txt
+          echo "- 📅 Date: $DATE" >> auto.txt
+          echo "- 🔥 Total commits in this repo: $COMMITS" >> auto.txt
+          echo "- ⚡ Status: Active & Building" >> auto.txt
+
+      - name: Update README safely
         run: |
-          sed -i '/<!-- AUTO-SECTION -->/,/<!-- AUTO-SECTION-END -->/c\
-          <!-- AUTO-SECTION -->\n'"$(cat auto.md)"'\n<!-- AUTO-SECTION-END -->' README.md
+          awk '
+          BEGIN {in_block=0}
+          /<!-- AUTO-SECTION -->/ {
+            print;
+            system("cat auto.txt");
+            in_block=1;
+            next
+          }
+          /<!-- AUTO-SECTION-END -->/ {
+            in_block=0;
+            print;
+            next
+          }
+          !in_block {print}
+          ' README.md > README.tmp
+
+          mv README.tmp README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "🤖 Auto update README" || echo "No changes"
+          git commit -m "🤖 Auto update README" || echo "No changes to commit"
           git push
