@@ -99,13 +99,7 @@ fn main() {
 
  </tr> </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iiiii0vicky0-0singh0iiiii"/>
-</picture>
+
 
 
 ---
