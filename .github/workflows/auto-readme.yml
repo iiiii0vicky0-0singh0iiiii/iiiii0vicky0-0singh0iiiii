@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate daily content
@@ -26,27 +26,27 @@ jobs:
           echo "- 🔥 Total commits in this repo: $COMMITS" >> auto.txt
           echo "- ⚡ Status: Active & Building" >> auto.txt
 
-      - name: Update README safely
+      - name: Safely update README
         run: |
           awk '
-          BEGIN {in_block=0}
+          BEGIN {inside=0}
           /<!-- AUTO-SECTION -->/ {
             print;
             system("cat auto.txt");
-            in_block=1;
+            inside=1;
             next
           }
           /<!-- AUTO-SECTION-END -->/ {
-            in_block=0;
+            inside=0;
             print;
             next
           }
-          !in_block {print}
-          ' README.md > README.tmp
+          !inside { print }
+          ' README.md > README.new
 
-          mv README.tmp README.md
+          mv README.new README.md
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
