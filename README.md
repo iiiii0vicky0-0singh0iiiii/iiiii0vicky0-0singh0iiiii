@@ -12,13 +12,6 @@
 </div>
 
 ---
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=CF9FFF&center=true&vCenter=true&width=700&lines=👻+Welcome+to+Vicky's+GitHub+Universe+🎃;Impossible+Profiles+Do+Exist;Code+%7C+Creativity+%7C+Chaos" />
-
-</div>
-
----
 
 
 ##  My Contributions
