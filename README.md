@@ -45,6 +45,16 @@
     src="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/github-contribution-grid-snake.svg" />
 </picture>
 
+## 🟡 Pac-Man Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/pacman-contribution-graph.svg" />
+</picture>
 
 
 ---
