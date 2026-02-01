@@ -2,28 +2,24 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  pacman:
     runs-on: ubuntu-latest
 
     steps:
       - name: Generate Pac-Man SVG
-        uses: Platane/snk@v3
+        uses: yoshi389111/github-profile-pacman@v1
         with:
           github_user_name: iiiii0vicky0-0singh0iiiii
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
 
-      - name: Push to output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
