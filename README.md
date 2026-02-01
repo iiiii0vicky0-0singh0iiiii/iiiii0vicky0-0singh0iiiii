@@ -45,9 +45,7 @@
     src="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 🟡 Pac-Man Eating My Contributions
 
-<img src="https://raw.githubusercontent.com/iiiii0vicky0-0singh0iiiii/iiiii0vicky0-0singh0iiiii/output/pacman.svg" />
 
   
 
