@@ -8,7 +8,7 @@
 <div align="center">
   <h2>Beware of the Ghost and Snake!</h2>
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Ghost Animation" width="300"/>
-  <p>The ghost haunts my profile at night 🌑👻</p>
+  <p>The ghost haunts my profile at night! 🌑👻</p>
 </div>
 
 ---
